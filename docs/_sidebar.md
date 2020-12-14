@@ -1,2 +1,2 @@
 - FAN
-  	- [Docs](FANDOCS.md)
+	- [Docs](FANDOCS.md)
