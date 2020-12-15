@@ -1,6 +1,6 @@
 ## Issuance period:
 
-During this time, the stable coin issuer(the lender, admin) deploys the Morgage contract on the etherium blockchain. Following this, the borrower deposits their collateral(OST tokens ) using **pledge(...). **
+During this time, the stable coin issuer(the lender, admin) deploys the Morgage contract on the etherium blockchain. Following this, the borrower deposits their collateral(OST tokens ) using **pledge(...).**
 
 Pledge(...) examins the deposit amount of assets and issues the equal value in USD of FAN. Then transfer the LTV(Load To Value) amount of FANs to borrower's address and the discount to the Morgage contract address. The colleteral is locked in the Morgage contract till the borrower repays the sufficient FAN (the FAN borrowed plus interest in this period). 
 
