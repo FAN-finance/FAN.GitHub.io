@@ -1,5 +1,5 @@
 - FAN
-	- [Contracts](Contracts.md)
+	- [Contracts](README.md)
 	- [Issuance Period & Loan Period](IssuancePeriod&LoanPeriod.md)
 	- [Selling & How Much](Selling&HowMuch.md)
 	- [Emergency Shutdown](EmergencyShutdown.md)
