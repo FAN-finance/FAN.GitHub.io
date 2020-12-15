@@ -1,3 +1,2 @@
 - FAN
-	- [Docs](README.md)
 	- [DOCS](README.md)
