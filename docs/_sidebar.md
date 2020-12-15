@@ -1,2 +1,3 @@
 - FAN
-	- [DOCS](README.md)
+	- [Contracts](README.md)
+	- [Issuance period&Loan Period](Issuance period&Loan Period.md)
