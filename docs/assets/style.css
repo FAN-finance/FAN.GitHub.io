@@ -36,7 +36,7 @@ div#app:empty:before {
 }
 
 .progress {
-    background-color: var(--theme-color, #42b983);
+    background-color: var(--theme-color, #2f54eb);
     height: 2px;
     left: 0;
     position: fixed;
@@ -49,7 +49,7 @@ div#app:empty:before {
 
 .search .search-keyword,
 .search a:hover {
-    color: var(--theme-color, #42b983)
+    color: var(--theme-color, #2f54eb)
 }
 
 .search .search-keyword {
