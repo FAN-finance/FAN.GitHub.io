@@ -731,7 +731,7 @@ body {
 }
 
 .sidebar ul li a:hover {
-    text-decoration: underline
+    text-decoration: none;
 }
 
 .sidebar ul li ul {
