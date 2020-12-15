@@ -1,3 +1,3 @@
 - FAN
 	- [Contracts] (README.md)
-	- [Issuance period&Loan Period] (Issuance period&Loan Period.md)
+	- [Issuance period&Loan Period] (IssuancePeriod&LoanPeriod.md)
