@@ -8,7 +8,7 @@
 
 **FAN:** stable coin, then name is FAN
 
-**Morgtage:** the main contract that accepts assets, such as security tokens, and issues stable coins pegged by the price of the assets in USD.
+**Mortgage:** the main contract that accepts assets, such as security tokens, and issues stable coins pegged by the price of the assets in USD.
 
 **Oracle:** read the external data, such as real estate housing price, secondary market price
 
