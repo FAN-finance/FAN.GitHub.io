@@ -9,9 +9,9 @@ FAN-G: governance token contract. FAN-G is used as interest of repayment, and in
 
 FAN: stable coin, the name is FAN
 
-Morgage: the main contract that accepts assets, such as security tokens, and issues stable coins pegged by the price of the assets in USD.
+Mortgage: the main contract that accepts assets, such as security tokens, and issues stable coins pegged by the price of the assets in USD.
 
-Oracle: read the external data, such as realestate housing price, sceondary market price
+Oracle: read the external data, such as real estate housing price, secondary market price
 
 Emergency shutdown: End.sol shuts down the system in case emergency occurs. 
 
