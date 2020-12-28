@@ -7,7 +7,7 @@ OST.sol: the security token contract.
 
 FAN-G: governance token contract. FAN-G is used as interest of repayment, and in other functions that manages the system.
 
-FAN: stable coin, then name is FAN
+FAN: stable coin, the name is FAN
 
 Morgage: the main contract that accepts assets, such as security tokens, and issues stable coins pegged by the price of the assets in USD.
 
