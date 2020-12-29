@@ -10,6 +10,6 @@
 
 **Mortgage:** the main contract that accepts assets, such as security tokens, and issues stable coins pegged by the price of the assets in USD.
 
-**Oracle:** read the external data, such as real estate housing price, secondary market price
+**Oracle:** read the external data, such as Real estate housing price, Secondary market price
 
 **Emergency shutdown:** End.sol shuts down the system in case emergency occurs. 
